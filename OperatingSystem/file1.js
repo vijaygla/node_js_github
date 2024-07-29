@@ -14,3 +14,4 @@ console.log("your Host Name:",os.hostname());
 console.log("Platform:",os.platform());
 console.log("TempDir:",os.tmpdir());
 console.log("Types_of_OS:",os.type());
+
